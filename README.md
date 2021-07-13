@@ -1,4 +1,4 @@
-# Vuex Todo Manager
+# Vuex Todo App
 
 > This project is part of the Vuex Crash Course on YouTube
 
